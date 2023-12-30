@@ -474,7 +474,7 @@ public class PlayerController : MonoBehaviour
             }
             if(!inRoll)
                 charanimator.Play("Falling");
-        }
+        }        
 
     }
 

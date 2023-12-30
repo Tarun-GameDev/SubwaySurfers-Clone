@@ -22,7 +22,6 @@ public class FractureExplode : MonoBehaviour
 
     public void Explode()
     {
-
         #region Exploding himself
 
         int smokeCounter = 0;
